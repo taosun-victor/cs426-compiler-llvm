@@ -1,0 +1,309 @@
+calling code env from main
+0th actual type: i8*
+String
+loading:  self %tmp.0 %Main**
+loading:  14
+OBJECT NAME: self
+ctmd aluru
+ZZZZZZ: counter
+ZZZZZZ: memory address
+ZZZZZZ: main pointer func
+ZZZZZZ: class new func
+ZZZZZZ: abort
+ZZZZZZ: type_name
+ZZZZZZ: copy
+ZZZZZZ: out_string
+out_string matched in get_offset out_string offset: 7
+ZZZZZZ: out_int
+ZZZZZZ: in_string
+ZZZZZZ: in_int
+ZZZZZZ: main
+ZZZZZZ: factorial
+counter
+memory address
+main pointer func
+class new func
+abort
+type_name
+copy
+out_string
+out_string matched out_string
+temp_type %Main*
+temp_type %St
+loading:  self %tmp.0 %Main**
+loading:  14
+OBJECT NAME: self
+ctmd aluru
+ZZZZZZ: counter
+ZZZZZZ: memory address
+ZZZZZZ: main pointer func
+ZZZZZZ: class new func
+ZZZZZZ: abort
+ZZZZZZ: type_name
+ZZZZZZ: copy
+ZZZZZZ: out_string
+ZZZZZZ: out_int
+ZZZZZZ: in_string
+ZZZZZZ: in_int
+in_int matched in get_offset in_int offset: 10
+ZZZZZZ: main
+ZZZZZZ: factorial
+counter
+memory address
+main pointer func
+class new func
+abort
+type_name
+copy
+out_string
+out_int
+in_string
+in_int
+in_int matched in_int
+temp_type %Main*)
+loading:  input %tmp.17 i32*
+loading:  9
+OBJECT NAME: input
+0th actual type: i8*
+String
+loading:  self %tmp.0 %Main**
+loading:  14
+OBJECT NAME: self
+ctmd aluru
+ZZZZZZ: counter
+ZZZZZZ: memory address
+ZZZZZZ: main pointer func
+ZZZZZZ: class new func
+ZZZZZZ: abort
+ZZZZZZ: type_name
+ZZZZZZ: copy
+ZZZZZZ: out_string
+out_string matched in get_offset out_string offset: 7
+ZZZZZZ: out_int
+ZZZZZZ: in_string
+ZZZZZZ: in_int
+ZZZZZZ: main
+ZZZZZZ: factorial
+counter
+memory address
+main pointer func
+class new func
+abort
+type_name
+copy
+out_string
+out_string matched out_string
+temp_type %Main*
+temp_type %St
+0th actual type: i32
+Int
+loading:  input %tmp.17 i32*
+loading:  9
+OBJECT NAME: input
+loading:  self %tmp.0 %Main**
+loading:  14
+OBJECT NAME: self
+ctmd aluru
+ZZZZZZ: counter
+ZZZZZZ: memory address
+ZZZZZZ: main pointer func
+ZZZZZZ: class new func
+ZZZZZZ: abort
+ZZZZZZ: type_name
+ZZZZZZ: copy
+ZZZZZZ: out_string
+ZZZZZZ: out_int
+ZZZZZZ: in_string
+ZZZZZZ: in_int
+ZZZZZZ: main
+ZZZZZZ: factorial
+factorial matched in get_offset factorial offset: 12
+counter
+memory address
+main pointer func
+class new func
+abort
+type_name
+copy
+out_string
+out_int
+in_string
+in_int
+main
+factorial
+factorial matched factorial
+temp_type %Main*
+0th actual type: i32
+Int
+loading:  input %tmp.17 i32*
+loading:  9
+OBJECT NAME: input
+0th actual type: i8*
+String
+loading:  self %tmp.0 %Main**
+loading:  14
+OBJECT NAME: self
+ctmd aluru
+ZZZZZZ: counter
+ZZZZZZ: memory address
+ZZZZZZ: main pointer func
+ZZZZZZ: class new func
+ZZZZZZ: abort
+ZZZZZZ: type_name
+ZZZZZZ: copy
+ZZZZZZ: out_string
+out_string matched in get_offset out_string offset: 7
+ZZZZZZ: out_int
+ZZZZZZ: in_string
+ZZZZZZ: in_int
+ZZZZZZ: main
+ZZZZZZ: factorial
+counter
+memory address
+main pointer func
+class new func
+abort
+type_name
+copy
+out_string
+out_string matched out_string
+temp_type %Main*
+temp_type %St
+ctmd aluru
+ZZZZZZ: counter
+ZZZZZZ: memory address
+ZZZZZZ: main pointer func
+ZZZZZZ: class new func
+ZZZZZZ: abort
+ZZZZZZ: type_name
+ZZZZZZ: copy
+ZZZZZZ: out_string
+ZZZZZZ: out_int
+out_int matched in get_offset out_int offset: 8
+ZZZZZZ: in_string
+ZZZZZZ: in_int
+ZZZZZZ: main
+ZZZZZZ: factorial
+counter
+memory address
+main pointer func
+class new func
+abort
+type_name
+copy
+out_string
+out_int
+out_int matched out_int
+temp_type %Main*
+temp_type i32
+0th actual type: i32
+Int
+loading:  res %tmp.0 %Main**
+loading:  14
+OBJECT NAME: res
+0th actual type: i8*
+String
+loading:  self %tmp.0 %Main**
+loading:  14
+OBJECT NAME: self
+ctmd aluru
+ZZZZZZ: counter
+ZZZZZZ: memory address
+ZZZZZZ: main pointer func
+ZZZZZZ: class new func
+ZZZZZZ: abort
+ZZZZZZ: type_name
+ZZZZZZ: copy
+ZZZZZZ: out_string
+out_string matched in get_offset out_string offset: 7
+ZZZZZZ: out_int
+ZZZZZZ: in_string
+ZZZZZZ: in_int
+ZZZZZZ: main
+ZZZZZZ: factorial
+counter
+memory address
+main pointer func
+class new func
+abort
+type_name
+copy
+out_string
+out_string matched out_string
+temp_type %Main*
+temp_type %St
+ctmd aluru
+ZZZZZZ: counter
+ZZZZZZ: memory address
+ZZZZZZ: main pointer func
+ZZZZZZ: class new func
+ZZZZZZ: abort
+ZZZZZZ: type_name
+ZZZZZZ: copy
+ZZZZZZ: out_string
+ZZZZZZ: out_int
+out_int matched in get_offset out_int offset: 8
+ZZZZZZ: in_string
+ZZZZZZ: in_int
+ZZZZZZ: main
+ZZZZZZ: factorial
+counter
+memory address
+main pointer func
+class new func
+abort
+type_name
+copy
+out_string
+out_int
+out_int matched out_int
+temp_type %Main*
+temp_type i32
+done calling 
+calling code env from factorial
+loading:  num %tmp.85 i32*
+loading:  9
+symbol vec at i num num
+loading:  num %tmp.85 i32*
+loading:  9
+symbol vec at i num num
+0th actual type: i32
+Int
+loading:  num %tmp.85 i32*
+loading:  9
+symbol vec at i num num
+loading:  self %tmp.84 %Main**
+loading:  14
+symbol vec at i self self
+ctmd aluru
+ZZZZZZ: counter
+ZZZZZZ: memory address
+ZZZZZZ: main pointer func
+ZZZZZZ: class new func
+ZZZZZZ: abort
+ZZZZZZ: type_name
+ZZZZZZ: copy
+ZZZZZZ: out_string
+ZZZZZZ: out_int
+ZZZZZZ: in_string
+ZZZZZZ: in_int
+ZZZZZZ: main
+ZZZZZZ: factorial
+factorial matched in get_offset factorial offset: 12
+counter
+memory address
+main pointer func
+class new func
+abort
+type_name
+copy
+out_string
+out_int
+in_string
+in_int
+main
+factorial
+factorial matched factorial
+temp_type %Main*
+done calling 
+
